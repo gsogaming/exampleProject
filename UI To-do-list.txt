@@ -1,0 +1,6 @@
+- UI yapılacaklar
+
+- Renk seçimi
+- Tasarım
+- Efektler
+- Sesler
