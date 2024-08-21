@@ -1,2 +1,0 @@
-# exampleProject
-My Awesome Project
