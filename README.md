@@ -1,1 +1,3 @@
-This is the readme file
+En sevdiğim meyveler
+
+Elma, Armut, Karpuz, Kavun
