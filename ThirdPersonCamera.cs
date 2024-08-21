@@ -32,8 +32,6 @@ public class ThirdPersonCamera : MonoBehaviour
 
         rotCamera.z = 0;
         rotPlayer.y += rotateX;
-
-        transform.rotation = Quaternion.Euler(rotCamera);
-        player.transform.rotation = Quaternion.Euler(rotPlayer);
+       
     }
 }
