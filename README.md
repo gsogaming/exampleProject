@@ -1,3 +1,3 @@
 En sevdiğim meyveler
 
-Elma, Armut, Karpuz, Kavun
+Elma, Armut, Karpuz, Kavun, Şeftali, Çilek
